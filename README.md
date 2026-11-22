@@ -2,7 +2,7 @@
 GIMP Plug-In InsaneBump Converted TO Newer Gimp3 Platform
 =======================
 
-Original Plug-in By Derby Russell <jdrussell51@gmail.org> Copyright (C) 2013-2026
+Original Plug-in By Derby Russell <jdrussell51@gmail.org> Copyright (C) 2013
     ALL Compiling and installation is the same as the older versions. 
                   2026 Conversion By Zantetsukens-Cut
 
@@ -30,5 +30,5 @@ XFree-style license to encourage the use of the insanebump for GPL /or/
 non-GPL plugins.
 
 --Derby Russell
-Happy GIMPing,
---Zantetsuken
+    Happy GIMPing,
+        --Zantetsuken
