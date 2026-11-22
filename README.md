@@ -29,6 +29,6 @@ The default license for the gimp-plugin-insanebump is an ultra-permissive
 XFree-style license to encourage the use of the insanebump for GPL /or/
 non-GPL plugins.
 
-Happy GIMPing,
 --Derby Russell
+Happy GIMPing,
 --Zantetsuken
