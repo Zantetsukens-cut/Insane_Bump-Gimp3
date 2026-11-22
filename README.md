@@ -14,21 +14,22 @@ nice things a good GIMP plug-in should have including modern Gimp 3 GeGL Support
 - It installs it's own help files.
 - Full autoconf/automake support.
 - A dialog with examples of all libgimp widgets.
-
-
-To build and install it, just ...
-
-	./configure
-	make
-	make install
-
- ... and it's there.
-
  /#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#/
+
+   INSTALLATION INSTRUCTIONS 
+ Step .1 build and install it
+
+	  ./configure
+	  make
+	  make install
+
+The output file>> gimp-plugin-insanebump.exe will be in the SRC folder
+
 When adding the file to the plug-in directory it must be in a sub-folder, each item gets its own folder
 within the Plug-ins Directory. So place it in a folder with the same name as the Plug-in but with no (.exe) file extension.
 Like so>> C:\Program Files\GIMP 3\lib\gimp\3.0\plug-ins\gimp-plugin-insanebump\gimp-plugin-insanebump.exe
 not much to it... Anyways ENJOY!!!!
+
 /#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#/
 
 The default license for the gimp-plugin-insanebump is an ultra-permissive
