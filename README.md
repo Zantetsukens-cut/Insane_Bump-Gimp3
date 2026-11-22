@@ -25,7 +25,7 @@ To build and install it, just ...
  ... and it's there.
 
  /#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#//#/#/#/#/#/
-When dropping to file in the plug-in directory it cant be lose in the plug-in folder like like gimp2 was, they each need there own folder
+When dropping to file in the plug-in directory it cant be lose in the plug-in folder like gimp2 was each item gets its own folder
 within the Plug-ins Directory. So place it in a folder with the same name as the Plug-in but with no (.exe) file extension.
 Like so>> C:\Program Files\GIMP 3\lib\gimp\3.0\plug-ins\gimp-plugin-insanebump\gimp-plugin-insanebump.exe
 not much to it... Anyways ENJOY!!!!
