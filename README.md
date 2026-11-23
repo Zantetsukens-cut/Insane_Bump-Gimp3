@@ -5,7 +5,8 @@ Insane Bump GIMP3 Platform Conversion Update
 <a href="https://github.com/rubencarneiro/GIMP-insanebump#gimp-insanebump">Original Plug-in</a> By <a href="mailto:jdrussell51@gmail.com">Derby Russell</a> Copyright (C) 2013.        
 2026 Conversion By <a href="https://github.com/Zantetsukens-cut">Zantetsukens-Cut</a>        
 __________________________________________________________________________________________________________               
-This package is a plug-in for GIMP 3.0.0. > It features all the
+This package is a plug-in for GIMP 3.0.0. >	
+It features all the
 nice things a good GIMP plug-in should have including modern Gimp 3 GeGL Support.
 - The source is separated in main/interface/render files (core/ui separation).
 - It's prepared for I18N.
@@ -27,15 +28,15 @@ will be in the SRC folder
 
 Step .2> Add it to Gimp!!        
 
-When adding to Gimp3's Plug-in folder located here> C:\Program Files\GIMP 3\lib\gimp\3.0\plug-ins\		
+When adding to Gimp3's Plug-in folder located here C:\Program Files\GIMP 3\lib\gimp\3.0\plug-ins\			
 individual sub-folders for each plug-in is required in Gimp3.	
 place file(s) inside a folder with the same title as the plug-in	
 Normal File path example>>	
 C:\Program Files\GIMP 3\lib\gimp\3.0\plug-ins\gimp-plugin-insanebump\gimp-plugin-insanebump.exe		
 not much to it... Anyways ENJOY!!!!        
 __________________________________________________________________________________________________________        
-The original default license for Usage of the gimp-plugin-insanebump plug-in is an ultra-permissive        
-XFree-style license to encourage the use of insanebump for GPL / non-GPL plugins.
+The original default license for Usage of the gimp-plugin-insanebump plug-in is an ultra-permissive	      
+XFree-style license to encourage the use of insanebump for GPL / non-GPL plugins.	
 
 --Derby Russell (Creator)        
 --Zantetsukens-Cut (Updater)        
