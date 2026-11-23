@@ -3,8 +3,9 @@
 GIMP Plug-In InsaneBump Converted TO Newer Gimp3 Platform
 =======================
 
-Original Plug-in By Derby Russell <jdrussell51@gmail.org> Copyright (C) 2013
-    ALL Compiling and installation is the same as the older versions. 
+<a href="https://github.com/rubencarneiro/GIMP-insanebump#gimp-insanebump">Original Plug-in</a> By <a href="jdrussell51@gmail.com">Derby Russell</a> Copyright (C) 2013
+
+ALL Compiling and installation is the same as the older versions. 
                   2026 Conversion By Zantetsukens-Cut
 
 This package is a plug-in for GIMP 3.0.0. > It features all the
